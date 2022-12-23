@@ -39,15 +39,27 @@ Procedimiento:
 
 ![Opera Instantánea_2022-12-22_203500_www tinkercad com](https://user-images.githubusercontent.com/117947198/209254937-27a5e707-a1e8-4741-8353-823e7d6036eb.png)
 
+Resolución Teorica: 
+
+![Opera Instantánea_2022-12-22_231655_app idroo com](https://user-images.githubusercontent.com/117947198/209270474-7ccd3939-84dc-4894-8542-75d82ff77336.png)
+
 1.5.3. Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![Opera Instantánea_2022-12-22_223515_www tinkercad com](https://user-images.githubusercontent.com/117947198/209266786-ace9d846-23df-43ff-b725-924e88db045c.png)
 
 ![Opera Instantánea_2022-12-22_223545_www tinkercad com](https://user-images.githubusercontent.com/117947198/209266795-da22a10c-c01e-41e0-8d24-4048c209404c.png)
 
+Resolución Teorica: 
+
+![Opera Instantánea_2022-12-22_231737_app idroo com](https://user-images.githubusercontent.com/117947198/209270551-96deceab-2099-4455-b246-dc613ad6bf88.png)
+
 1.5.4. Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![Opera Instantánea_2022-12-22_224818_www tinkercad com](https://user-images.githubusercontent.com/117947198/209269651-f9926f27-227d-48ef-9065-a4986c83bef5.png)
+
+Resolución Teorica: 
+
+![Opera Instantánea_2022-12-22_231804_app idroo com](https://user-images.githubusercontent.com/117947198/209270607-1f7fd401-b92b-4052-b5a5-8435e36523da.png)
 
 Tabla 4.1 y 4.2:
 
